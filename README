@@ -1,0 +1,4 @@
+a text based VU meter for linux.  A simple tool modified to control the 
+led display on a SciCortex machine.
+
+provide the hostname of the esd sound server as a command line argument.
